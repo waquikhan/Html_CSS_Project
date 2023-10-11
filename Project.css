@@ -1,0 +1,60 @@
+.container{
+    background-color: rgb(44, 44, 144);
+    color: white;
+}
+.Heading{
+  font-size: 55px;
+  padding-top: 20px ;
+  font-weight: bold;
+  padding-left: 120px;
+  margin: 10px;
+}
+.Heading2{
+  padding-left: 130px;
+  font-size: 20px;
+  width: 550px;
+}
+.LeanMore{
+  padding-left: 130px;
+  margin-top: 10px;
+
+}
+
+  /*-------------------- Login Conatiner Css ----------------------- */
+  
+  #Conainer1{
+    height: 500px;
+    width: 510px;
+    margin-left: 110px;
+  }
+  .LoginContainer{
+    padding-left: 30px;
+  }
+  #Email{
+    margin-top: 5px;
+    padding: 10px;
+    height: 50px;
+    width: 400px;
+  }
+  #Password{
+    margin-top: 5px;
+    padding: 4px;
+    height: 50px;
+    width: 400px;
+  }
+  #ChecckBox{
+    margin-top: 5px;
+    padding: 4px;
+    height: 20px;
+    width: 40px;
+  }
+  #SignIn{
+    margin-top: 5px;
+    padding: 4px;
+    height: 20px;
+    width: 40px;
+  }
+
+  .text-info{
+    text-decoration: none;
+  }
